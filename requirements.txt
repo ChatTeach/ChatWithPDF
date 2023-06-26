@@ -3,3 +3,4 @@ PyPDF2
 streamlit 
 openai 
 faiss-cpu
+tiktoken
